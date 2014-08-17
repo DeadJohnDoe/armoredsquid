@@ -53,7 +53,7 @@ Regardless of whether the win state is dependent upon achieving objectives or de
 ## Design
 
 ### User Interface
-To be determined.
+The user interface will follow a coloring style of shades of gray and blue to match the proposed nautical theme of the game. ("Let's stick with squid/nautical elements and see where they take us. -Ring")  More details regarding the general flavor of the interface as far as input and the presentation of information / guidance are concerned will, among other things, ensue as we spend more time thinktanking ideas.
 
 ### Art Style
 To be determined.
